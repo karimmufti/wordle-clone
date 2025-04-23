@@ -15,6 +15,7 @@ Simple Wordle word guessing game built using JavaScript, HTML, and CSS.
 ##File Structure
 
 wordle-tut/
+
 ├── index.html
 ├── src/
 │   ├── index.js
