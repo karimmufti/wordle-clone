@@ -20,7 +20,6 @@ wordle-tut/
 │   ├── index.js
 │   ├── style.css
 │   └── words.txt
-
 ```
 - HTML
 - CSS
