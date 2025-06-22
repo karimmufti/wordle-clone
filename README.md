@@ -10,9 +10,8 @@ Simple Wordle word guessing game built using JavaScript, HTML, and CSS.
 - word validation using imported dictionary
 - Win / Lose message
 - Animations
-  
-<img width="682" alt="Screenshot 2025-05-19 at 3 23 16 PM" src="https://github.com/user-attachments/assets/195cd8aa-6f2d-4818-85ab-f4c525eed731" />
 
+<img width="580" alt="Screenshot 2025-06-22 at 4 50 12 PM" src="https://github.com/user-attachments/assets/8fc949d7-9443-4118-a3c8-9dc58ef5c2fd" />
 
 ## File Structure
 ```
